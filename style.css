@@ -338,7 +338,7 @@ body {
 }
 
 .material-icons-outlined:hover {
-    transform: rotate(-7deg) scale(1.2);
+    transform: translateY(1px) scale(1.2);
     opacity: 0.8;
 }
 
