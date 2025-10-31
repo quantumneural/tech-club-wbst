@@ -5,8 +5,8 @@
 <!-- - Remove School Logo Rotation -->
 <!-- - Change Copyright -->
 <!-- - Make O capital on home page and in copyright -->
-- Add Chezhian as Content Creator
-- Add new tab -> Other Clubs
+- Add Chezhian as Content Creator 
+<!-- - Add new tab -> Other Clubs -->
     Put Clubs in the same format as Mentors
-- Add Shalini Ma'am
+- Add Shalini Ma'am to Mentors Section
 - Add Udbhav Alam under "Other Clubs" (Conceptualized the Clubs)
