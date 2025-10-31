@@ -339,8 +339,13 @@ body {
 }
 
 .material-icons-outlined:hover {
-    transform: translateY(1.5px);
+    transform: translateY(-1.5px);
     opacity: 0.8;
+}
+
+.material-icons-outlined:active {
+    transform: translateY(1px);
+    opacity: 0.645;
 }
 
 /* ------------------- */
