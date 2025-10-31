@@ -6,6 +6,7 @@
 <!-- - Change Copyright -->
 <!-- - Make O capital on home page and in copyright -->
 - Add Chezhian as Content Creator 
+- Fix Divyansh Chauhan
 <!-- - Add new tab -> Other Clubs -->
     Put Clubs in the same format as Mentors
 - Add Shalini Ma'am to Mentors Section
