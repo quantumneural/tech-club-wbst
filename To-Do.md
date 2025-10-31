@@ -3,7 +3,7 @@
 <!-- - Change Favicon -->
 - Put Poster
 <!-- - Remove School Logo Rotation -->
-- Change Copyright
+<!-- - Change Copyright -->
 <!-- - Make O capital on home page and in copyright -->
 - Add Chezhian as Content Creator
 - Add new tab -> Other Clubs
