@@ -122,14 +122,15 @@ body {
     transform: scale(1.03);
     box-shadow: 0px 0px 11px 11px rgba(125, 249, 255, 0.5);
 }
-.soi-logo{
+
+/* .soi-logo{
     border: none;
     transition: all 0.2s, transform 1s;
 }
 
 .soi-logo:hover{
     transform: scale(1.1) rotate(360deg);
-}
+} */
 
 .brnd-name {
     font-family: 'Montserrat', 'sans-serif';
