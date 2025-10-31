@@ -339,7 +339,7 @@ body {
 }
 
 .material-icons-outlined:hover {
-    transform: translateY(1px) scale(1.2);
+    transform: translateY(1.5px);
     opacity: 0.8;
 }
 
